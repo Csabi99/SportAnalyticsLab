@@ -1,1 +1,1 @@
-# SportAnalyticsLab
+# Önálló labor
